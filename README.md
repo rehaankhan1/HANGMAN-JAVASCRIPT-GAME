@@ -1,5 +1,5 @@
 This is a simple project made with the use of Javascript es7, babel and Webpack to create a Hangman Based Word Guessing Game.
-You can try it out at -> https://rehaa# Hangman-Game
+You can try it out at -> https://rehaan-hangman-project.netlify.com/
 This is a simple project made with the use of Javascript es7, babel and Webpack to create a Hangman Based Word Guessing Game.
 
 ## INSTALLATION
